@@ -1,4 +1,9 @@
 Short Links:
 
-https://tiny.cc/whatsapp_eng --> English version
-https://tiny.cc/whatsapp_ptb --> Brazilian Portuguese version
+ENG :: English version
+* http://tiny.cc/whatsapp_eng
+* http://tiny.cc/msg_whatsApp_eng
+
+PTB :: Brazilian Portuguese version
+* http://tiny.cc/whatsapp_ptb
+* http://tiny.cc/msg_whatsApp_ptb
